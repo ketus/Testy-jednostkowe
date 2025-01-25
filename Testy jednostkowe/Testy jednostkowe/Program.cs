@@ -2,7 +2,7 @@
 
 namespace QuadraticEquationSolver
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -51,7 +51,18 @@ namespace QuadraticEquationSolver
             }
         }
 
-
+        /// <summary>
+        /// Oblicza pierwiastki równania kwadratowego ax² + bx + c = 0.
+        /// Zwraca tablicę z pierwiastkami rzeczywistymi:
+        /// - 0 elementów, gdy brak pierwiastków rzeczywistych,
+        /// - 1 element, gdy pierwiastek jest tylko jeden,
+        /// - 2 elementy, gdy są dwa pierwiastki.
+        /// </summary>
+        /// <param name="a">Współczynnik przy x² (musi być różny od 0)</param>
+        /// <param name="b">Współczynnik przy x</param>
+        /// <param name="c">Wyraz wolny</param>
+        /// <returns>Tablica liczb typu double zawierająca pierwiastki rzeczywiste.</returns>
+        /// <exception cref="ArgumentException">Rzucane, gdy a = 0 (brak równania kwadratowego).</exception>
         public static double[] CalculateQuadraticRoots(double a, double b, double c)
         {
             if (Math.Abs(a) < double.Epsilon)
