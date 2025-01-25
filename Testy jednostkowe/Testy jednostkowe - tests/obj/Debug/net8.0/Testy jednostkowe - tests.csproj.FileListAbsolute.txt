@@ -1,0 +1,106 @@
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Testy jednostkowe - tests
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy jednostkowe - tests.csproj.AssemblyReference.cache
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy jednostkowe - tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy jednostkowe - tests.AssemblyInfoInputs.cache
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy jednostkowe - tests.AssemblyInfo.cs
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy jednostkowe - tests.csproj.CoreCompileInputs.cache
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy jednostkowe - tests.sourcelink.json
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\testhost.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Testy jednostkowe.deps.json
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Testy jednostkowe.runtimeconfig.json
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Testy jednostkowe.exe
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\testhost.exe
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Testy jednostkowe - tests.deps.json
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Testy jednostkowe - tests.runtimeconfig.json
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Testy jednostkowe - tests.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Testy jednostkowe - tests.pdb
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\xunit.abstractions.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\xunit.assert.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\xunit.core.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Testy jednostkowe.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\bin\Debug\net8.0\Testy jednostkowe.pdb
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy je.D3F2606F.Up2Date
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy jednostkowe - tests.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\refint\Testy jednostkowe - tests.dll
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy jednostkowe - tests.pdb
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\Testy jednostkowe - tests.genruntimeconfig.cache
+E:\DEV\Projects\Testy-jednostkowe\Testy jednostkowe\Testy jednostkowe - tests\obj\Debug\net8.0\ref\Testy jednostkowe - tests.dll

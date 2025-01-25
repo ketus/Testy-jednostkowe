@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C299374D-5380-4D49-8D6A-27D306B6AEA0}|Testy jednostkowe\\Testy jednostkowe.csproj|e:\\dev\\projects\\testy-jednostkowe\\testy jednostkowe\\testy jednostkowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C299374D-5380-4D49-8D6A-27D306B6AEA0}|Testy jednostkowe\\Testy jednostkowe.csproj|solutionrelative:testy jednostkowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30197EEF-0FBA-486C-9D4F-7BDF0B3F8C19}|Testy jednostkowe - tests\\Testy jednostkowe - tests.csproj|e:\\dev\\projects\\testy-jednostkowe\\testy jednostkowe\\testy jednostkowe - tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30197EEF-0FBA-486C-9D4F-7BDF0B3F8C19}|Testy jednostkowe - tests\\Testy jednostkowe - tests.csproj|solutionrelative:testy jednostkowe - tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C299374D-5380-4D49-8D6A-27D306B6AEA0}|Testy jednostkowe\\Testy jednostkowe.csproj|e:\\dev\\projects\\testy-jednostkowe\\testy jednostkowe\\testy jednostkowe\\testy jednostkowe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C299374D-5380-4D49-8D6A-27D306B6AEA0}|Testy jednostkowe\\Testy jednostkowe.csproj|solutionrelative:testy jednostkowe\\testy jednostkowe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C299374D-5380-4D49-8D6A-27D306B6AEA0}|Testy jednostkowe\\Testy jednostkowe.csproj|e:\\dev\\projects\\testy-jednostkowe\\testy jednostkowe\\testy jednostkowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C299374D-5380-4D49-8D6A-27D306B6AEA0}|Testy jednostkowe\\Testy jednostkowe.csproj|solutionrelative:testy jednostkowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Testy jednostkowe",
-              "DocumentMoniker": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\Testy jednostkowe.csproj",
-              "RelativeDocumentMoniker": "Testy jednostkowe\\Testy jednostkowe.csproj",
-              "ToolTip": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\Testy jednostkowe.csproj",
-              "RelativeToolTip": "Testy jednostkowe\\Testy jednostkowe.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-25T08:45:46.965Z",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\Testy jednostkowe - tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Testy jednostkowe - tests\\UnitTest1.cs",
+              "ToolTip": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\Testy jednostkowe - tests\\UnitTest1.cs",
+              "RelativeToolTip": "Testy jednostkowe - tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:57:53.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\Program.cs",
               "RelativeDocumentMoniker": "Testy jednostkowe\\Program.cs",
               "ToolTip": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\Program.cs",
               "RelativeToolTip": "Testy jednostkowe\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwEQAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T08:22:42.789Z",
               "EditorCaption": ""
