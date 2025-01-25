@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEV\\WSB\\Semestr 4\\Testy jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\Testy jednostkowe.csproj",
+      "projectUniqueName": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\Testy jednostkowe.csproj",
       "projectName": "Testy jednostkowe",
-      "projectPath": "E:\\DEV\\WSB\\Semestr 4\\Testy jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\Testy jednostkowe.csproj",
+      "projectPath": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\Testy jednostkowe.csproj",
       "packagesPath": "C:\\Users\\Deus\\.nuget\\packages\\",
-      "outputPath": "E:\\DEV\\WSB\\Semestr 4\\Testy jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\obj\\",
+      "outputPath": "E:\\DEV\\Projects\\Testy-jednostkowe\\Testy jednostkowe\\Testy jednostkowe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Deus\\AppData\\Roaming\\NuGet\\NuGet.Config",
